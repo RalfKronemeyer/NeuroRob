@@ -1,0 +1,4 @@
+/* D:\DIPLOM\NDL_ROB.H 11/18/1991 15:00*/
+#define  ID19_NT	1900
+#define  ID19_TEXT1	1901
+#define  ID19_TEXT2	1902

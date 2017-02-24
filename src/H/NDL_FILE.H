@@ -1,0 +1,5 @@
+/* D:\DIPLOM\NDL_FILE.H 1/3/1980 9:23*/
+#define  ID6_DIRECTORY	602
+#define  ID6_FILES	600
+#define  ID6_DIRECTORIES	601
+#define  ID6_FILE	603

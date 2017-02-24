@@ -1,0 +1,2 @@
+/* D:\DIPLOM\NDL_EDIT.H 10/17/1991 17:16*/
+#define  ID7_EDIT	701

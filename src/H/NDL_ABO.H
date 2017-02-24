@@ -1,0 +1,2 @@
+/* D:\DIPLOM\NDL_ABO.H 11/13/1991 9:27*/
+#define  ID12_SHOW	1201

@@ -1,0 +1,12 @@
+/* D:\DIPLOM\NDL_LIST.H 12/28/1991 16:09*/
+#define  ID3_BEFEHLSLISTE	300
+#define  ID3_ADD	301
+#define  ID3_DEL	302
+#define  ID3_LOAD	303
+#define  ID3_SAVE	304
+#define  ID3_DO	306
+#define  ID3_SINGLESTEP	308
+#define  ID3_REPEAT	309
+#define  ID3_SELECTALL	310
+#define  ID3_COMMAND	311
+#define  ID3_UNSELECTALL	307

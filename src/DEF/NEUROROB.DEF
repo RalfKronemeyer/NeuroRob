@@ -1,0 +1,35 @@
+;/***************************************************************************
+; Modul:       NEUROROB.DEF
+
+; Aufgabe:     EnthÑlt grundlegende Informationen Åber Programmgeneration
+
+;***************************************************************************/
+
+NAME	     		NeuroRob
+
+DESCRIPTION  	'NeuroRob'
+
+EXETYPE     	WINDOWS
+
+CODE  				PRELOAD FIXED
+DATA  				PRELOAD FIXED
+
+HEAPSIZE     	4096
+STACKSIZE    	8192
+
+EXPORTS
+	MainWndProc   		@1;
+	About	      			@2;
+	Steuerung 				@3;
+	Befehlsliste 			@4;
+	VideoSteuerung 		@5;
+	Befehlseingabe 		@6;
+	Brain 						@7;
+	NeuesNetz 				@8 ;
+	DateiLaden 				@9;
+	Positionsana 			@10;
+	NeuronenDaten 		@11;
+	TeileDaten 				@12;
+	Visualisierung 		@13 ;
+	Face 							@14;
+	RobInit 					@15;

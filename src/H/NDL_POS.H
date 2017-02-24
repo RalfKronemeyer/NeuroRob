@@ -1,0 +1,15 @@
+/* D:\DIPLOM\NDL_POS.H 10/30/1991 8:53*/
+#define  ID8_LOAD	810
+#define  ID8_SAVE	811
+#define  ID8_NEW	812
+#define  ID8_DATEN	813
+#define  ID8_MOVE	814
+#define  ID8_POSITION	816
+#define  ID8_POSITIONSNR	830
+#define  ID8_XWERT	831
+#define  ID8_YWERT	832
+#define  ID8_ZWERT	833
+#define  ID8_HANDPITCH	834
+#define  ID8_HANDROLL	835
+#define  ID8_HANDGRIP	836
+#define  ID8_ROBOTER	837

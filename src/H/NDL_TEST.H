@@ -1,0 +1,3 @@
+/* D:\DIPLOM\NDL_TEST.H 11/14/1991 11:49*/
+#define  ID17_S	1701
+#define  ID17_T	1721
